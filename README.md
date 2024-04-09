@@ -18,3 +18,6 @@ Books are identified by their respective ISBN. Invalid ISBNs have already been r
 ### Ratings
 Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
+### Objective 
+We have data related to books, users, and ratings. We will try to formulate and identify groups of books that are similar to each other based on features such as ratings, genres, or author styles. This can help in recommending similar books to users or in inventory categorization.
+
